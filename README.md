@@ -20,6 +20,28 @@ The Model Context Protocol (MCP) is a standardized approach to managing and opti
 - Modular architecture
 - API specifications
 
+## Todo Application
+This repository includes a Flask-based Todo application as a practical implementation example. The application features:
+
+- Create, read, update, and delete (CRUD) operations for todos
+- SQLite database for data persistence
+- Clean and responsive UI using Tailwind CSS
+- Task completion tracking
+- Timestamp recording
+
+### Running the Todo App
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the application:
+```bash
+python app.py
+```
+
+3. Open your browser and navigate to `http://localhost:5000`
+
 ## Getting Started
 Detailed documentation and implementation guides will be provided soon.
 
